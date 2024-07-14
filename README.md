@@ -26,7 +26,7 @@ Fonctionne sur les systèmes d'exploitation Windows, Linux et macOS grâce à l'
 
 Copier le code
 
-```python port_scanner.py```
+```python ip.py```
 
 
 ## Remarques
