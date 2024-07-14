@@ -14,7 +14,7 @@ Art ASCII coloré en violet et menu interactif pour une expérience utilisateur 
 ### Compatible multi-plateforme : 
 Fonctionne sur les systèmes d'exploitation Windows, Linux et macOS grâce à l'utilisation de os.system pour effacer la console (cls pour Windows et clear pour les autres systèmes).
 
-##Utilisation
+## Utilisation
 
 1. Clonez le repository ou téléchargez le script.
 
